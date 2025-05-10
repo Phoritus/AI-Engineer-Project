@@ -1,0 +1,178 @@
+2025-05-10 18:12:46,512 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:13:24,737 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:14:07,282 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:15:01,529 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:15:20,636 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:16:23,107 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:16:36,793 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:17:19,525 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:19:52,220 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:26:31,382 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:32:11,882 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:32:54,555 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-06
+2025-05-10 18:36:05,695 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 18:44:29,198 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:44:43,384 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:44:49,331 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:47:27,850 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-06
+2025-05-10 18:48:53,562 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:51:00,001 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-06
+2025-05-10 18:51:16,691 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:51:19,887 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:51:21,945 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-09-29
+2025-05-10 18:52:31,272 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:52:34,290 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:52:36,343 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-09-29
+2025-05-10 18:53:01,034 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:04,096 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:06,145 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 18:53:35,710 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:39,113 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:41,167 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 18:53:49,414 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:52,656 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:53:54,691 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 18:55:22,107 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:55:34,803 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:55:37,398 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 18:55:39,453 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 19:02:04,058 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:02:06,114 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:02:15,804 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:02:17,869 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:03:10,666 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:03:12,695 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:04:07,543 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:04:09,587 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:04:38,540 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:04:40,590 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:05:03,543 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:05:05,594 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:05:23,661 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:05:25,709 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:08:54,131 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:08:56,180 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:09:20,855 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:09:22,908 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:10:26,052 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:10:28,105 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 19:10:30,148 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:14:57,461 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:16:02,129 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:19:22,297 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:19:29,309 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:19:31,362 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:19:43,171 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:19:45,226 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:20:02,303 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:20:04,353 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:20:15,170 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:20:17,222 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:20:58,404 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:21:00,428 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:21:15,545 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:21:17,596 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:23:26,830 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:23:28,883 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:25:37,914 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:25:39,981 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:25:54,014 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:26:01,462 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:26:03,506 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:27:02,703 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:27:04,742 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:29:16,638 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:29:18,686 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:29:55,236 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:29:57,280 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 19:29:59,334 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:33:33,097 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 19:33:35,158 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:36:08,596 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-09
+2025-05-10 19:36:10,645 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:36:13,181 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-11
+2025-05-10 19:36:15,228 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:36:21,352 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-11
+2025-05-10 19:36:23,409 - db_helper - INFO - Delete_expense_in_date 2024-09-11
+2025-05-10 19:36:23,417 - db_helper - INFO - Insert_expense_data_in_date 2024-09-11
+2025-05-10 19:36:25,450 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:36:29,719 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-29
+2025-05-10 19:36:31,766 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:36:39,053 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-29
+2025-05-10 19:36:41,100 - db_helper - INFO - Delete_expense_in_date 2024-09-29
+2025-05-10 19:36:41,106 - db_helper - INFO - Insert_expense_data_in_date 2024-09-29
+2025-05-10 19:36:43,167 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:37:17,255 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-05-10 19:37:19,315 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:37:30,794 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-05-10 19:37:32,848 - db_helper - INFO - Delete_expense_in_date 2024-08-15
+2025-05-10 19:37:32,853 - db_helper - INFO - Insert_expense_data_in_date 2024-08-15
+2025-05-10 19:37:32,857 - db_helper - INFO - Insert_expense_data_in_date 2024-08-15
+2025-05-10 19:37:32,860 - db_helper - INFO - Insert_expense_data_in_date 2024-08-15
+2025-05-10 19:37:34,915 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:37:47,796 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-10 19:37:49,847 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:37:58,725 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-10 19:38:00,765 - db_helper - INFO - Delete_expense_in_date 2024-08-01
+2025-05-10 19:38:00,771 - db_helper - INFO - Insert_expense_data_in_date 2024-08-01
+2025-05-10 19:38:00,774 - db_helper - INFO - Insert_expense_data_in_date 2024-08-01
+2025-05-10 19:38:00,777 - db_helper - INFO - Insert_expense_data_in_date 2024-08-01
+2025-05-10 19:38:00,781 - db_helper - INFO - Insert_expense_data_in_date 2024-08-01
+2025-05-10 19:38:02,832 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:38:33,926 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-10 19:38:35,964 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:38:45,047 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-10 19:38:47,088 - db_helper - INFO - Delete_expense_in_date 2024-09-30
+2025-05-10 19:38:47,093 - db_helper - INFO - Insert_expense_data_in_date 2024-09-30
+2025-05-10 19:38:47,097 - db_helper - INFO - Insert_expense_data_in_date 2024-09-30
+2025-05-10 19:38:47,100 - db_helper - INFO - Insert_expense_data_in_date 2024-09-30
+2025-05-10 19:38:47,104 - db_helper - INFO - Insert_expense_data_in_date 2024-09-30
+2025-05-10 19:38:47,107 - db_helper - INFO - Insert_expense_data_in_date 2024-09-30
+2025-05-10 19:38:49,139 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:39:00,990 - db_helper - INFO - fetch_expenses_for_date called with 2024-01-10
+2025-05-10 19:39:03,042 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:39:15,442 - db_helper - INFO - fetch_expenses_for_date called with 2024-01-10
+2025-05-10 19:39:17,495 - db_helper - INFO - Delete_expense_in_date 2024-01-10
+2025-05-10 19:39:17,500 - db_helper - INFO - Insert_expense_data_in_date 2024-01-10
+2025-05-10 19:39:17,503 - db_helper - INFO - Insert_expense_data_in_date 2024-01-10
+2025-05-10 19:39:19,559 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:39:35,345 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-17
+2025-05-10 19:39:37,404 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:40:39,369 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-05-10 19:40:41,406 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:40:47,081 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-05-10 19:40:49,147 - db_helper - INFO - Delete_expense_in_date 2024-09-01
+2025-05-10 19:40:49,152 - db_helper - INFO - Insert_expense_data_in_date 2024-09-01
+2025-05-10 19:40:49,155 - db_helper - INFO - Insert_expense_data_in_date 2024-09-01
+2025-05-10 19:40:49,159 - db_helper - INFO - Insert_expense_data_in_date 2024-09-01
+2025-05-10 19:40:49,162 - db_helper - INFO - Insert_expense_data_in_date 2024-09-01
+2025-05-10 19:40:49,166 - db_helper - INFO - Insert_expense_data_in_date 2024-09-01
+2025-05-10 19:40:51,225 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:41:33,204 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-14
+2025-05-10 19:41:35,244 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:41:57,253 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-14
+2025-05-10 19:41:59,311 - db_helper - INFO - Delete_expense_in_date 2024-02-14
+2025-05-10 19:41:59,316 - db_helper - INFO - Insert_expense_data_in_date 2024-02-14
+2025-05-10 19:41:59,321 - db_helper - INFO - Insert_expense_data_in_date 2024-02-14
+2025-05-10 19:42:01,380 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:13,228 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-14
+2025-05-10 19:43:15,253 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:17,738 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-09
+2025-05-10 19:43:19,785 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:22,236 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-12
+2025-05-10 19:43:24,288 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:30,169 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-08
+2025-05-10 19:43:32,206 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:33,684 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-01
+2025-05-10 19:43:35,734 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 19:43:48,677 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-01
+2025-05-10 19:43:50,731 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 19:43:52,787 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 21:44:56,619 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 22:18:46,814 - db_helper - INFO - fetch_expenses_for_date called with 2024-02-01
+2025-05-10 22:18:48,905 - db_helper - INFO - fetch_sum_date start_date:2024-08-02, end_date:2024-08-07
+2025-05-10 22:18:50,980 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 22:35:18,888 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 22:35:20,927 - db_helper - INFO - fetch_sum_by_months
+2025-05-10 22:36:52,432 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-05-10 22:36:54,490 - db_helper - INFO - fetch_sum_by_months
